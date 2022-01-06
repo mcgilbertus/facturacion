@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invoice-backend-net6", "invoice-backend-net6\invoice-backend-net6.csproj", "{3DB438CC-0C72-4A35-8DE5-2B38303CF4D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invoice-backend-net6.domain", "invoice-backend-net6.domain\invoice-backend-net6.domain.csproj", "{74222B91-B0FD-4427-B6CD-C1C16C69C78F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB438CC-0C72-4A35-8DE5-2B38303CF4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB438CC-0C72-4A35-8DE5-2B38303CF4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB438CC-0C72-4A35-8DE5-2B38303CF4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB438CC-0C72-4A35-8DE5-2B38303CF4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74222B91-B0FD-4427-B6CD-C1C16C69C78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74222B91-B0FD-4427-B6CD-C1C16C69C78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74222B91-B0FD-4427-B6CD-C1C16C69C78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74222B91-B0FD-4427-B6CD-C1C16C69C78F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
