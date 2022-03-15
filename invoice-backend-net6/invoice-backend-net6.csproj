@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.1" />
         <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.1">
           <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
           <PrivateAssets>all</PrivateAssets>
@@ -17,6 +18,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\invoice-backend-net6.domain\invoice-backend-net6.domain.csproj" />
+      <ProjectReference Include="..\invoice-backend-net6.infrastructure\invoice-backend-net6.infrastructure.csproj" />
     </ItemGroup>
 
     <ItemGroup>

@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invoice-backend-net6", "inv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invoice-backend-net6.domain", "invoice-backend-net6.domain\invoice-backend-net6.domain.csproj", "{74222B91-B0FD-4427-B6CD-C1C16C69C78F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invoice-backend-net6.infrastructure", "invoice-backend-net6.infrastructure\invoice-backend-net6.infrastructure.csproj", "{916664E2-CC88-4058-92FB-B484EEB6FA62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{74222B91-B0FD-4427-B6CD-C1C16C69C78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74222B91-B0FD-4427-B6CD-C1C16C69C78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74222B91-B0FD-4427-B6CD-C1C16C69C78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916664E2-CC88-4058-92FB-B484EEB6FA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916664E2-CC88-4058-92FB-B484EEB6FA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916664E2-CC88-4058-92FB-B484EEB6FA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916664E2-CC88-4058-92FB-B484EEB6FA62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

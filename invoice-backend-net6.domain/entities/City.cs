@@ -9,5 +9,6 @@ public class City
     public string CityName { get; set; }
     
     // FK (nullable)
+    public int? ProvinceId { get; set; }
     public Province? Province { get; set; }
 }
